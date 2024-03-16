@@ -2,13 +2,12 @@ import React from 'react';
 import './App.css';
 import Header from './components/Header';
 import Table from './components/Table';
+import 'bootstrap/dist/css/bootstrap.min.css'; // Ensure Bootstrap CSS is imported
 
 function App() {
   return (
     <div className="App">
-      <h1>Header:</h1>
       <Header />
-      <h1>Table:</h1>
       <Table />
     </div>
   );
