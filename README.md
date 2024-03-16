@@ -13,8 +13,8 @@ To run this project, you will need to have .NET Core and Node.js installed on yo
 
 ### Frontend Setup
 1. Navigate to the `frontend` directory from the root of the project.
-2. Install the necessary Node.js dependencies by running: npm install
-3. Start the React development server by running: npm start
+2. Install the necessary Node.js dependencies by running: `npm install`
+3. Start the React development server by running: `npm start`
 
 ## Usage
 Once both the frontend and backend servers are running, you can view the application by visiting `http://localhost:3000` in your web browser. The application displays a list of bowlers from the Marlins and Sharks teams, including their contact information and team affiliation.
